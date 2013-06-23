@@ -32,7 +32,7 @@ Repositories:
 
 Before you continue --> run this in the terminal
 
-    repo init -u git://github.com/Druboo666/liquid_manifest_xperia.git -b master
+    repo init -u git://github.com/Druboo666/liquid_manifest_xperia.git -b jb-4.2
 
     repo sync
 
