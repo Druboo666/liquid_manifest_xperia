@@ -271,10 +271,8 @@
   
   <!-- from LegacyXperia -->
   <project name="LegacyXperia/android_hardware_ti_wpan" path="hardware/ti/wpan" remote="github" revision="cm-10.1" />
-  <project name="LegacyXperia/android_external_wpa_supplicant_8_ti" path="external/wpa_supplicant_8_ti" remote="github" 
-  
-  
-  <project name="br101/android_external_iw" path="external/iw" remote="github" revision="master" />  
+  <project name="LegacyXperia/android_external_wpa_supplicant_8_ti" path="external/wpa_supplicant_8_ti" remote="github"
+  <project name="br101/android_external_iw" path="external/iw" revision="master" />
   
   <!-- other need for xperia -->
   <project name="koush/Superuser" path="external/koush/Superuser" remote="github" revision="master" />
