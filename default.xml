@@ -24,6 +24,11 @@
 
   <remote  name="mv"
            fetch="git://github.com/Mustaavalkosta/" />
+  
+  <remote name="fxp"
+           fetch="https://github.com/"
+           revision="jellybean"
+           review="review.cyanogenmod.com" />
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
