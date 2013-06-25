@@ -281,17 +281,17 @@
   <project path="packages/apps/Camera" name="PolishBloodProject/android_packages_apps_Camera" remote="github" revision="jb4.2" />
   
   <!-- Bootable need for xperia -->
-  <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" remote="cm" revision="cm-10.1" />
-  <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="cm" revision="cm-10.1" />
+  <project path="bootable/bootloader/legacy" name="android_bootable_bootloader_legacy" remote="cm" revision="cm-10.1" />
+  <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   
   <!-- external need for xpria -->
-  <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="cm" revision="cm-10.1" />
-  <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="cm-10.1" />
-  <project path="external/lzo" name="CyanogenMod/android_external_lzo" remote="cm" revision="cm-10.1" />
-  <project path="external/bash" name="CyanogenMod/android_external_bash" remote="cm" revision="cm-10.1" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="cm" revision="cm-10.1" />
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm-10.1" />
+  <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
+  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
+  <project path="external/lzo" name="android_external_lzo" remote="cm" revision="cm-10.1" />
+  <project path="external/bash" name="android_external_bash" remote="cm" revision="cm-10.1" />
+  <project path="external/libncurses" name="android_external_libncurses" remote="cm" revision="cm-10.1" />
+  <project path="external/busybox" name="android_external_busybox" remote="cm" revision="cm-10.1" />
 
   
   <project path="libcore" name="android_libcore" remote="ls" revision="jb2" />
